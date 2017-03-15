@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardViewTest</string>
+    <string name="cardview_text">这是一个CardView控件，CardView控件可以显示阴影和圆角效果。这个Demo演示了CardView控件的用法。</string>
+</resources>
